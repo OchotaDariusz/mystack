@@ -1,0 +1,6 @@
+{
+  "name": "mystack-java",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/mystack-java/src",
+  "tags": []
+}
